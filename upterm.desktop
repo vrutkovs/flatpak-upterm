@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Upterm
+Icon=com.github.railsware.Upterm
+Exec=/app/bin/upterm
+Categories=Terminal;

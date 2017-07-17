@@ -1,0 +1,4 @@
+#!/bin/bash
+cp -r /app/share/upterm /tmp/upterm
+cd /tmp/upterm
+npm start
